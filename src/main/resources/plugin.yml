@@ -1,0 +1,4 @@
+name: ArrowEx
+version: '${project.version}'
+main: org.hark7.arrowex.ArrowEx
+api-version: 1.19
